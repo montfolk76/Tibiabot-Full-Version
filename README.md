@@ -1,0 +1,1 @@
+# Tibiabot-Full-Version
