@@ -236,4 +236,4 @@ This repository serves as the official landing page for TibiaBot NG. The softwar
 **Get the most recent version of TibiaBot NG today!**
 
 ---
-**Last updated:** 2026-09-15 11:10:48 UTC
+**Last updated:** 2026-09-15 16:21:58 UTC
